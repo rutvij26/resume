@@ -4,10 +4,12 @@
   <Education />
   <Projects />
   <Hob />
-   <Skill />
+  
  </section>
 <section class="Sec">
-  <Work />
+  
+   <Skill />
+   <Work />
   
 </section>
 </div>
