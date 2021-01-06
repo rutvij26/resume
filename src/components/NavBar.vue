@@ -52,7 +52,7 @@ export default {
 
 <style>
 .con {
-  background-color: yellowgreen;
+  background-color: lavender;
   border-style: double;
   max-width: 100%;
   max-height: 170px;
