@@ -9,7 +9,7 @@
             <div class="subcard">
               <v-card elevation="10">
                 <v-card-title
-                  ><strong>Full Stack Developer Intern</strong><br />
+                  ><strong>Full Stack Developer Intern</strong>
                   BOP Consultancy And Services</v-card-title
                 >
                 <v-card-text>
@@ -23,9 +23,9 @@
                   packages for use in website projects</v-card-text
                 >
               </v-card>
-            </div>
+            <!-- </div>
 
-            <div class="subcard">
+            <div class="subcard"> -->
               <v-card elevation="10">
                 <v-card-title
                   >Web Developer Intern<br />Dev Infotech</v-card-title
@@ -55,9 +55,10 @@ export default {};
 .education {
   /* border-style: double; */
   margin: 20px;
-  max-width: 440px;
+  max-width: 880px;
   font-weight: bold;
   font-size: 100px;
+  display: flex;
 }
 
 .cards {
@@ -74,4 +75,5 @@ export default {};
   padding-bottom: 20px;
   display: -webkit-inline-box;
 }
+
 </style>
