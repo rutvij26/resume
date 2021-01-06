@@ -52,8 +52,8 @@ export default {
 
 <style>
 .con {
-  background-color: lavender;
-  border-style: double;
+  background-color: lightblue;
+  /* border-style: double; */
   max-width: 100%;
   max-height: 170px;
   align-items: flex-start;

@@ -2,13 +2,13 @@
   <div>
     <div class="education">
         
-      <v-card elevation="24">
+      <v-card elevation="10">
         <v-card-title>EDUCATION</v-card-title>
         
         <div class="cards">
         <v-card-subtitle>
           <div class="subcard">
-            <v-card elevation="24">
+            <v-card elevation="10">
               <v-card-title
                 >VishwaKarma Institute of Information Technology</v-card-title>
               <v-card-text>
@@ -17,14 +17,14 @@
           </div>
           <section class="ji">
           <div class="subcard">
-            <v-card elevation="24">
+            <v-card elevation="10">
               <v-card-title
                 >HSC</v-card-title>
               <v-card-text>Percentage : 73.4%</v-card-text>
             </v-card>
           </div>
           <div class="subcard">
-            <v-card elevation="24">
+            <v-card elevation="10">
               <v-card-title
                 >SSC</v-card-title>
               <v-card-text>Percentage : 89.8%</v-card-text>
