@@ -1,22 +1,24 @@
 <template>
 <div class="Sec">
   <Education />
+  <Work />
 </div>
 </template>
 
-
 <script>
 import Education from './Education';
+import Work from './Work.vue';
 export default {
   name:'home',
   components: {
-    Education
+    Education,
+    Work
   }
 };
 </script>
 
 <style>
 .Sec{
-  Display: inline-block;
+  display: -webkit-inline-box;
 }
 </style>
