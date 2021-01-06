@@ -1,37 +1,26 @@
 <template>
   <div>
     <div class="education">
-        
       <v-card elevation="10">
         <v-card-title>PROJECTS</v-card-title>
-        
+
         <div class="cards">
-        <v-card-subtitle>
-          <div class="subcard">
-            <v-card elevation="10">
-              <v-card-title
-                >VishwaKarma Institute of Information Technology</v-card-title>
-              <v-card-text>
-               <spam> Bachelor of Engineering in Information Technology, <br>06/2016-06/2020, CGPA:7.81</spam></v-card-text>
-            </v-card>
-          </div>
-          <section class="ji">
-          <div class="subcard">
-            <v-card elevation="10">
-              <v-card-title
-                >HSC</v-card-title>
-              <v-card-text>Percentage : 73.4%</v-card-text>
-            </v-card>
-          </div>
-          <div class="subcard">
-            <v-card elevation="10">
-              <v-card-title
-                >SSC</v-card-title>
-              <v-card-text>Percentage : 89.8%</v-card-text>
-            </v-card>
-          </div>
-          </section>
-        </v-card-subtitle>
+          <v-card-subtitle>
+            <div class="subcard">
+              <v-card elevation="10">
+                <v-card-title
+                  >Car Rental Application (12/2018 – 04/2019)</v-card-title
+                >
+                <v-card-text>
+                  <spam
+                    >-Created a working full stack application.<br />-Used
+                    netbeans software and mysql database<br />-Created complete
+                    admin side software.</spam
+                  ></v-card-text
+                >
+              </v-card>
+            </div>
+          </v-card-subtitle>
         </div>
       </v-card>
     </div>
@@ -39,25 +28,22 @@
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style>
 .education {
   /* border-style: double; */
   margin: 20px;
-  max-width:440px;
+  max-width: 440px;
   font-weight: bold;
   font-size: 100px;
 }
 
 .cards {
   text-decoration-color: black;
-  justify-content:space-evenly;
+  justify-content: space-evenly;
   /* display: inline-block; */
- 
 }
 
 .subcard {
@@ -65,7 +51,6 @@ export default {
   width: auto;
   max-width: auto;
   padding-bottom: 20px;
-   display: -webkit-inline-box;
+  display: -webkit-inline-box;
 }
-
 </style>

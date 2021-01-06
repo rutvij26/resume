@@ -40,23 +40,6 @@
                 >
               </v-card>
             </div>
-
-            <!-- <section class="ji">
-          <div class="subcard">
-            <v-card elevation="10">
-              <v-card-title
-                >HSC</v-card-title>
-              <v-card-text>Percentage : 73.4%</v-card-text>
-            </v-card>
-          </div>
-          <div class="subcard">
-            <v-card elevation="10">
-              <v-card-title
-                >SSC</v-card-title>
-              <v-card-text>Percentage : 89.8%</v-card-text>
-            </v-card>
-          </div>
-          </section> -->
           </v-card-subtitle>
         </div>
       </v-card>
