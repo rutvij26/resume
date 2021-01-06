@@ -63,9 +63,9 @@ export default {
 .subcard {
   margin: 10px;
   width: auto;
-  max-width: fit-content;
+  max-width: auto;
   padding-bottom: 20px;
-  display: inline-block;
+   display: -webkit-inline-box;
 }
 
 </style>
