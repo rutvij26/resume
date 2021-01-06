@@ -11,6 +11,6 @@
 
 <style>
 .text-center{
-    background-color:lavender;
+    background-color:lightblue;
 }
 </style>
