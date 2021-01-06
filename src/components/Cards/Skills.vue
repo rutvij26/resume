@@ -2,7 +2,7 @@
   <div>
     <div class="education">
       <v-card elevation="10">
-        <v-card-title>PROJECTS</v-card-title>
+        <v-card-title>SKILLS</v-card-title>
 
         <div class="cards">
           <v-card-subtitle>
