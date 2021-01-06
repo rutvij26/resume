@@ -2,6 +2,7 @@
  <v-app>
    <NavBar />
    <Home />
+   <Footer />
  </v-app>
 </template>
 
@@ -9,13 +10,14 @@
 
 import NavBar from './components/NavBar';
 import Home from'./components/HomePage';
-
+import Footer from'./components/Footer';
 export default {
   name: 'App',
 
   components: {
     NavBar,
-    Home
+    Home,
+    Footer
   },
 
   data: () => ({
