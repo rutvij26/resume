@@ -2,15 +2,12 @@
 <div>
 <section class="Sec">
   <Education />
-  <Projects />
-  <Hob />
-  
+  <Work />
  </section>
 <section class="Sec">
-  
-   <Skill />
-   <Work />
-  
+    <Skill />
+    <Projects />
+    <Hob />
 </section>
 </div>
 </template>
